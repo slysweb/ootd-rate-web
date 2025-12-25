@@ -4,7 +4,9 @@ OOTD Rate is an AI-powered outfit analysis tool that evaluates fashion styling u
 OOTD Rate is an advanced AI-powered fashion analysis platform that automatically evaluates your outfit, provides objective scoring, personalized style recommendations, and helps you elevate your fashion sense through detailed feedback and expert styling tips.
 
 # How to use OOTD Rate?
-First, select 'Feedback Mode', then, upload your best outfit photo, wait for the analysis to complete.
+On the website homepage. First, select 'Feedback Mode', then, upload your best outfit photo, wait for the analysis to complete. 
+
+You can choose to publish it immediately, or manage it on the 'my gallery' page. You cannot modify the AI-generated comments and tags, but you can modify the AI-generated title.
 
 # Feedback Mode
 Normal Rating - Constructive feedback with score (1-10)
