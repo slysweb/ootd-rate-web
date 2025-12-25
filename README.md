@@ -40,7 +40,7 @@ The clothing items are categorized into different types, covering almost all clo
 # My Gallery
 Your personal collection of all outfits, including those visible only to yourself. Supports searching by date and generating and downloading outfit cards.
 
-# Websiite
+# Website
 https://www.ootd-rate.com/
 
 All about ootd-rate.com
