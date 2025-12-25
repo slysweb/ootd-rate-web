@@ -1,5 +1,6 @@
 # About OOTD Rate
 OOTD Rate is an AI-powered outfit analysis tool that evaluates fashion styling using a structured 10-point scoring system.
+
 OOTD Rate is an advanced AI-powered fashion analysis platform that automatically evaluates your outfit, provides objective scoring, personalized style recommendations, and helps you elevate your fashion sense through detailed feedback and expert styling tips.
 
 # How to use OOTD Rate?
@@ -7,18 +8,24 @@ First, select 'Feedback Mode', then, upload your best outfit photo, wait for the
 
 # Feedback Mode
 Normal Rating - Constructive feedback with score (1-10)
+
 Sharp-tongued Critique - Brutally honest, harsh rating
+
 AI Analytics - Detailed item analysis without rating
 
 # Evaluation criteria
 Fit & Proportion (2 points)
  How balanced and well-fitted the outfit appears overall.
+ 
 Color Coordination (2 points)
  The harmony, contrast, and consistency of colors.
+ 
 Styling & Layering (2 points)
  How thoughtfully pieces are combined, including accessories and layers.
+ 
 Practicality & Comfort (2 points)
  Whether the outfit appears wearable and appropriate for real-life use.
+ 
 Trend Awareness (2 points)
  How well the look aligns with current or intentional fashion trends.
 
