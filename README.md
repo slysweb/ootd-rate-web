@@ -54,9 +54,11 @@ Try OOTD Rate on: https://www.ootd-rate.com/
 
 # Samples
 Normal Rating: 
+
 <img src="samples/normal-rating.png" alt="Normal Rating" width="360px">
 
 Sharp-tongued Critique:
+
 <img src="samples/sharp-tongued-critique.png" alt="Sharp-tongued Critique" width="360px">
 
 
