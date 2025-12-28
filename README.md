@@ -15,7 +15,7 @@ Sharp-tongued Critique - Brutally honest, harsh rating
 
 AI Analytics - Detailed item analysis without rating
 
-# Evaluation criteria
+# Evaluation Criteria
 Fit & Proportion (2 points)
  How balanced and well-fitted the outfit appears overall.
  
@@ -31,6 +31,12 @@ Practicality & Comfort (2 points)
 Trend Awareness (2 points)
  How well the look aligns with current or intentional fashion trends.
 
+# Notice:
+*No NSFW content. You can upload sexy pictures, but you cannot upload revealing or pornographic pictures.
+*The score and feedback cannot be modified.
+*The "sharp-tongued" mode is more for entertainment than practical use.
+*The ratings are for reference only. AI cannot replace humans; your own subjective feelings are the most important.
+
 # Outfit Gallery
 This is a collection of publicly released clothing items and their commentary, including celebrity red carpet photos, movie stills, street style photos, and selfies of outfits taken by netizens.
 
@@ -41,6 +47,6 @@ The clothing items are categorized into different types, covering almost all clo
 Your personal collection of all outfits, including those visible only to yourself. Supports searching by date and generating and downloading outfit cards.
 
 # Website
-https://www.ootd-rate.com/
+Try OOTD Rate on: https://www.ootd-rate.com/
 
 All about ootd-rate.com
