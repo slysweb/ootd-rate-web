@@ -3,10 +3,6 @@ layout: default
 title: OOTD Rate Blog
 ---
 
-# OOTD Rate Blog
-
-**AI-powered outfit rating, fashion analysis & style improvement**
-
 We explore how **AI evaluates outfits**, explains *why some OOTDs score higher*, and helps you dress better using **data-driven fashion insights**.
 
 ---
