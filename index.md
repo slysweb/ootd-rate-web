@@ -63,6 +63,3 @@ they need clearer styling decisions.
 If you only have 10 minutes:  
 [How to Improve Your Outfit Rating in 10 Minutes]({% post_url 2025-02-18-how-to-improve-your-outfit-rating-in-10-minutes %})
 
----
-
-© {{ site.time | date: "%Y" }} OOTD Rate
